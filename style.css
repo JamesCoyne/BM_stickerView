@@ -158,12 +158,11 @@ background-color: white;
 
 .content {
 	background-color: #181818;
-	height: 100vh;
 	overflow: auto;
 }
 
 .first-section {
-	height: 100vh;
+	height:fit-content;
 }
 
 
